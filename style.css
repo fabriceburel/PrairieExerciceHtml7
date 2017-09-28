@@ -14,3 +14,6 @@ input {
   border: 1px solid grey;
   margin-top: 2px;
 }
+textarea:focus{
+  background-color: white;
+}
