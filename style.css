@@ -1,23 +1,12 @@
-#encadre1 {
-
-  background: #2574A9;
-  border: 3px groove;
-
-}
-
-#encadre2 {
-
+fieldset#Adresse, fieldset#Adresse legend{
   background: #9A12B3;
-
 }
 
-#encadre3 {
-
+fieldset#Paiement, fieldset#Paiement legend{
   background: #DB0A5B;
-
 }
 
 
-em {
-
+fieldset#identite, fieldset#identite legend{
+  background: #2574A9;
 }
